@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "total": 8,
+  "total": 9,
   "carpetas": [
     "Ciencias",
     "Ciencias/Animales",
@@ -8,6 +8,7 @@
     "Ciencias/Plantas",
     "Matemáticas",
     "Matemáticas/Figuras",
+    "Matemáticas/Funciones",
     "Matemáticas/Gráficos",
     "Otros",
     "Otros/Cumpleaños",
@@ -98,6 +99,17 @@
         "lados"
       ],
       "autor": "Tu nombre"
+    },
+    {
+      "ruta": "Matemáticas/Funciones/fabrica.svg",
+      "carpeta": [
+        "Matemáticas",
+        "Funciones"
+      ],
+      "titulo": "fabrica",
+      "descripcion": "",
+      "etiquetas": [],
+      "autor": ""
     },
     {
       "ruta": "Matemáticas/Gráficos/barras.svg",
