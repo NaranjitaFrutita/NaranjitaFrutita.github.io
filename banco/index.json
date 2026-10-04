@@ -107,9 +107,9 @@
         "Funciones"
       ],
       "titulo": "fabrica",
-      "descripcion": "",
-      "etiquetas": [],
-      "autor": ""
+      "descripcion": "Fábrica de funciones de color rojo con entrada y salida",
+      "etiquetas": [fábrica, funciones, i/o, rojo, rostro],
+      "autor": "Luis"
     },
     {
       "ruta": "Matemáticas/Gráficos/barras.svg",
