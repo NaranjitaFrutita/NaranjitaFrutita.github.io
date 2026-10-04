@@ -1,0 +1,29 @@
+name: Actualizar índice del banco
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "banco/**/*.svg"
+      - "scripts/generar-indice.mjs"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  indice:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Generar banco/index.json
+        run: node scripts/generar-indice.mjs
+      - name: Subir el índice si cambió
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add banco/index.json
+          git diff --cached --quiet || (git commit -m "Actualizar índice del banco" && git push)
