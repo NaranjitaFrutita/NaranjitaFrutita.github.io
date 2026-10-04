@@ -106,10 +106,15 @@
         "Matemáticas",
         "Funciones"
       ],
-      "titulo": "Fabrica",
-      "descripcion": "",
-      "etiquetas": [],
-      "autor": ""
+      "titulo": "Fábrica",
+      "descripcion": "Fábrica roja con rostro sobre funciones",
+      "etiquetas": [
+        "fábrica",
+        "rojo",
+        "i/o",
+        "funciones"
+      ],
+      "autor": "Luis"
     },
     {
       "ruta": "Matemáticas/Gráficos/barras.svg",
