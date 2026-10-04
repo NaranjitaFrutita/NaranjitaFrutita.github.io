@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <title>Hoja</title>
+  <desc>Hoja simple con nervadura central y pecíolo</desc>
+  <metadata>{"etiquetas":"hoja, planta, fotosíntesis, botánica, verde","autor":"Tu nombre"}</metadata>
+  <path d="M50 8C82 24 88 62 50 88C12 62 18 24 50 8Z" fill="currentColor" stroke="#22283a" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M50 88V96M50 86V24M50 66L68 50M50 66L32 50M50 46L64 34M50 46L36 34" fill="none" stroke="#22283a" stroke-width="2" stroke-linecap="round"/>
+</svg>

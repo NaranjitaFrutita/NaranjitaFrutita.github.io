@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <title>Título del elemento</title>
+  <desc>Descripción corta de qué muestra el dibujo</desc>
+  <metadata>{"etiquetas":"etiqueta uno, etiqueta dos, etiqueta tres","autor":"Tu nombre"}</metadata>
+
+  <!-- Dibuja aquí. Usa fill="currentColor" en lo que quieras recolorear desde el editor. -->
+  <circle cx="50" cy="50" r="40" fill="currentColor"/>
+</svg>

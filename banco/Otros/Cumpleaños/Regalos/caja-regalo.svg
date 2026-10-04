@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <title>Caja de regalo</title>
+  <desc>Caja de regalo con lazo y cinta</desc>
+  <metadata>{"etiquetas":"regalo, caja, lazo, cumpleaños, sorpresa","autor":"Tu nombre"}</metadata>
+  <rect x="12" y="40" width="76" height="52" fill="currentColor" stroke="#22283a" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="8" y="30" width="84" height="16" fill="currentColor" stroke="#22283a" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="44" y="30" width="12" height="62" fill="#f2c94c" stroke="#22283a" stroke-width="2"/>
+  <path d="M50 30C36 30 24 22 30 14C38 8 50 22 50 30ZM50 30C64 30 76 22 70 14C62 8 50 22 50 30Z" fill="#f2c94c" stroke="#22283a" stroke-width="2" stroke-linejoin="round"/>
+</svg>

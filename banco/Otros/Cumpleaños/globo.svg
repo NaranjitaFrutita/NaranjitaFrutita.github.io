@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <title>Globo</title>
+  <desc>Globo de fiesta con hilo</desc>
+  <metadata>{"etiquetas":"globo, fiesta, cumpleaños, celebración","autor":"Tu nombre"}</metadata>
+  <path d="M50 8C74 8 86 26 82 46C78 64 62 74 50 76C38 74 22 64 18 46C14 26 26 8 50 8Z" fill="currentColor" stroke="#22283a" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M45 76H55L50 84Z" fill="currentColor" stroke="#22283a" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M50 84C44 90 56 92 50 98" fill="none" stroke="#22283a" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M32 24C36 18 42 15 48 14" fill="none" stroke="#fff" stroke-opacity=".7" stroke-width="3" stroke-linecap="round"/>
+</svg>

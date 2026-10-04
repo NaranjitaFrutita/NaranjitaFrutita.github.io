@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <title>Gráfico de barras</title>
+  <desc>Gráfico de barras con cuatro columnas y ejes</desc>
+  <metadata>{"etiquetas":"gráfico, barras, estadística, datos, frecuencia","autor":"Tu nombre"}</metadata>
+  <path d="M12 8V88H94" fill="none" stroke="#22283a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="currentColor" stroke="#22283a" stroke-width="1.5">
+    <rect x="22" y="52" width="14" height="36"/>
+    <rect x="42" y="30" width="14" height="58"/>
+    <rect x="62" y="44" width="14" height="44"/>
+    <rect x="82" y="18" width="10" height="70"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <title>Pez</title>
+  <desc>Pez de perfil con aleta caudal, ojo y branquia</desc>
+  <metadata>{"etiquetas":"pez, animal, vertebrado, acuático, peces","autor":"Tu nombre"}</metadata>
+  <path d="M8 50C24 24 56 22 74 42L94 26V74L74 58C56 78 24 76 8 50Z" fill="currentColor" stroke="#22283a" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M34 36C28 46 28 54 34 64" fill="none" stroke="#22283a" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="22" cy="46" r="4" fill="#fff" stroke="#22283a" stroke-width="1.5"/>
+  <circle cx="21" cy="46" r="1.8" fill="#22283a"/>
+</svg>

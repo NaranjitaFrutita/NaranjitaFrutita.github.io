@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "total": 8,
+  "carpetas": [
+    "Ciencias",
+    "Ciencias/Animales",
+    "Ciencias/Hongos",
+    "Ciencias/Plantas",
+    "Matemáticas",
+    "Matemáticas/Figuras",
+    "Matemáticas/Gráficos",
+    "Otros",
+    "Otros/Cumpleaños",
+    "Otros/Cumpleaños/Regalos"
+  ],
+  "elementos": [
+    {
+      "ruta": "Ciencias/Animales/pez.svg",
+      "carpeta": [
+        "Ciencias",
+        "Animales"
+      ],
+      "titulo": "Pez",
+      "descripcion": "Pez de perfil con aleta caudal, ojo y branquia",
+      "etiquetas": [
+        "pez",
+        "animal",
+        "vertebrado",
+        "acuático",
+        "peces"
+      ],
+      "autor": "Tu nombre"
+    },
+    {
+      "ruta": "Ciencias/Hongos/champinon.svg",
+      "carpeta": [
+        "Ciencias",
+        "Hongos"
+      ],
+      "titulo": "Champiñón",
+      "descripcion": "Hongo con sombrero y pie, vista lateral",
+      "etiquetas": [
+        "hongo",
+        "champiñón",
+        "seta",
+        "reino fungi",
+        "sombrero"
+      ],
+      "autor": "Tu nombre"
+    },
+    {
+      "ruta": "Ciencias/Plantas/girasol.svg",
+      "carpeta": [
+        "Ciencias",
+        "Plantas"
+      ],
+      "titulo": "Girasol",
+      "descripcion": "Flor de girasol con pétalos amarillos y centro café",
+      "etiquetas": [
+        "girasol",
+        "flor",
+        "planta",
+        "amarillo",
+        "botánica"
+      ],
+      "autor": "Tu nombre"
+    },
+    {
+      "ruta": "Ciencias/Plantas/hoja.svg",
+      "carpeta": [
+        "Ciencias",
+        "Plantas"
+      ],
+      "titulo": "Hoja",
+      "descripcion": "Hoja simple con nervadura central y pecíolo",
+      "etiquetas": [
+        "hoja",
+        "planta",
+        "fotosíntesis",
+        "botánica",
+        "verde"
+      ],
+      "autor": "Tu nombre"
+    },
+    {
+      "ruta": "Matemáticas/Figuras/hexagono.svg",
+      "carpeta": [
+        "Matemáticas",
+        "Figuras"
+      ],
+      "titulo": "Hexágono regular",
+      "descripcion": "Hexágono regular con sus seis lados iguales",
+      "etiquetas": [
+        "hexágono",
+        "polígono",
+        "figura",
+        "geometría",
+        "lados"
+      ],
+      "autor": "Tu nombre"
+    },
+    {
+      "ruta": "Matemáticas/Gráficos/barras.svg",
+      "carpeta": [
+        "Matemáticas",
+        "Gráficos"
+      ],
+      "titulo": "Gráfico de barras",
+      "descripcion": "Gráfico de barras con cuatro columnas y ejes",
+      "etiquetas": [
+        "gráfico",
+        "barras",
+        "estadística",
+        "datos",
+        "frecuencia"
+      ],
+      "autor": "Tu nombre"
+    },
+    {
+      "ruta": "Otros/Cumpleaños/globo.svg",
+      "carpeta": [
+        "Otros",
+        "Cumpleaños"
+      ],
+      "titulo": "Globo",
+      "descripcion": "Globo de fiesta con hilo",
+      "etiquetas": [
+        "globo",
+        "fiesta",
+        "cumpleaños",
+        "celebración"
+      ],
+      "autor": "Tu nombre"
+    },
+    {
+      "ruta": "Otros/Cumpleaños/Regalos/caja-regalo.svg",
+      "carpeta": [
+        "Otros",
+        "Cumpleaños",
+        "Regalos"
+      ],
+      "titulo": "Caja de regalo",
+      "descripcion": "Caja de regalo con lazo y cinta",
+      "etiquetas": [
+        "regalo",
+        "caja",
+        "lazo",
+        "cumpleaños",
+        "sorpresa"
+      ],
+      "autor": "Tu nombre"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <title>Hexágono regular</title>
+  <desc>Hexágono regular con sus seis lados iguales</desc>
+  <metadata>{"etiquetas":"hexágono, polígono, figura, geometría, lados","autor":"Tu nombre"}</metadata>
+  <path d="M50 6L88 28V72L50 94L12 72V28Z" fill="currentColor" stroke="#22283a" stroke-width="2.5" stroke-linejoin="round"/>
+</svg>

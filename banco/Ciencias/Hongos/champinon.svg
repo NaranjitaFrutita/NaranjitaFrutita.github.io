@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <title>Champiñón</title>
+  <desc>Hongo con sombrero y pie, vista lateral</desc>
+  <metadata>{"etiquetas":"hongo, champiñón, seta, reino fungi, sombrero","autor":"Tu nombre"}</metadata>
+  <path d="M40 54H60L64 90H36Z" fill="#f4ead2" stroke="#22283a" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M8 56C8 26 28 10 50 10C72 10 92 26 92 56Z" fill="currentColor" stroke="#22283a" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="32" cy="38" r="6" fill="#fff" fill-opacity=".85"/>
+  <circle cx="58" cy="28" r="5" fill="#fff" fill-opacity=".85"/>
+  <circle cx="72" cy="44" r="6" fill="#fff" fill-opacity=".85"/>
+</svg>
