@@ -108,7 +108,7 @@
       ],
       "titulo": "fabrica",
       "descripcion": "Fábrica de funciones de color rojo con entrada y salida",
-      "etiquetas": [fábrica, funciones, i/o, rojo, rostro],
+      "etiquetas": ["fábrica", "funciones", "i/o", "rojo", "rostro"],
       "autor": "Luis"
     },
     {
