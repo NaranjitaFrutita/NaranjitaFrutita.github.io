@@ -101,15 +101,15 @@
       "autor": "Tu nombre"
     },
     {
-      "ruta": "Matemáticas/Funciones/fabrica.svg",
+      "ruta": "Matemáticas/Funciones/Fabrica.svg",
       "carpeta": [
         "Matemáticas",
         "Funciones"
       ],
-      "titulo": "Fábrica",
-      "descripcion": "Fábrica de funciones de color rojo con entrada y salida",
-      "etiquetas": ["fábrica", "funciones", "i/o", "rojo", "rostro"],
-      "autor": "Luis"
+      "titulo": "Fabrica",
+      "descripcion": "",
+      "etiquetas": [],
+      "autor": ""
     },
     {
       "ruta": "Matemáticas/Gráficos/barras.svg",
